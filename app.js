@@ -147,12 +147,8 @@ function page8animation() {
     });
   });
 }
-
-
-
-// page1animation();
-// page2Animation();
-// page3VideoAnimation();
-// page7animation();
-
-// page8animataion();
+page1animation();
+page2Animation();
+page3VideoAnimation();
+page7animation();
+page8animataion();
